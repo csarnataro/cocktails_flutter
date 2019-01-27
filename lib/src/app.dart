@@ -13,6 +13,7 @@ class App extends StatelessWidget {
         title: 'Cocktails',
         theme: ThemeData(
           primaryColor: Color.fromRGBO(58, 66, 86, 1.0),
+          
         ),
       ),
     );
